@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className="flex flex-col">
       <div className="bg-green-500 p-4 ">
-        <h1 className="text-xl">Deusenberry</h1>
+        <h1 className="text-xl">Next Test</h1>
       </div>
       <p className="p-4 text-base">A little space for experimentation.</p>
       <div className="p-4">
